@@ -1,5 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+Australia+SA&pause=500&color=9B0EF7&center=true&vCenter=true&width=1000&lines=Welcome+to+the+most+neglected%2C+boring+profile+on+github...;%3Cb%3ECODAHQ%3C%2Fb%3E;I+used+HTML+content+even+though+it+doesn't+render+correctly.;And+yes...;I+100%25+created+the+profile+readme...;just+so+I+could+play+with+this+SVG+generator.)](https://git.io/typing-svg)
+<!--
+
 ## Hi there 👋
 
+-->
 <!--
 **codahq/codahq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
